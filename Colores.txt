@@ -1,0 +1,15 @@
+Explicación:
+Navbar: El azul oscuro (rgb(0, 56, 98)) transmite autoridad y confianza, ideal para la barra de navegación.
+
+Footer: El azul más suave (rgb(34, 85, 142)) aporta una sensación de calma y estabilidad, perfecto para el pie de página.
+
+Resaltar: El azul brillante (rgb(66, 153, 255)) es un tono llamativo pero profesional, perfecto para resaltar elementos importantes.
+
+Resultado visual:
+Navbar: Azul oscuro para proporcionar estabilidad y presencia.
+
+Footer: Azul más claro, creando un contraste suave pero aún serio.
+
+Resaltar: Un azul vibrante que atraerá la atención sin perder el tono profesional de la página.
+
+Este esquema de colores te permitirá crear una página web profesional y segura, con un diseño armónico y visualmente atractivo.
